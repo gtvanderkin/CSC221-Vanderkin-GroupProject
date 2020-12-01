@@ -10,5 +10,5 @@ Owner: Gabriel Vanderkin - gtvanderkin@my.waketech.edu
 Collaborators:
 * Lee West
 * Dayton Vanhouten
-* Stuart Watson
+* Stuart Watson - Accept invite, Please view my REPOSITORY
 * Zachary Wylie
