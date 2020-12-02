@@ -8,7 +8,7 @@ Webscraped URL: [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin)
 Owner: Gabriel Vanderkin - gtvanderkin@my.waketech.edu
 
 Collaborators:
-* Lee West
+* Lee West - Accepted
 * Dayton Vanhouten
 * Stuart Watson - Accept invite, Please view my REPOSITORY
 * Zachary Wylie
