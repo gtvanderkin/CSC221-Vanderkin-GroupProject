@@ -12,3 +12,6 @@ Collaborators:
 * Dayton Vanhouten
 * Stuart Watson - Accept invite, Please view my REPOSITORY
 * Zachary Wylie
+
+Instructor:
+* Ms. Rizzo srizzo@waketech.edu
