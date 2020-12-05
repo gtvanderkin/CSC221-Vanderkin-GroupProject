@@ -1,7 +1,7 @@
 # CSC221-Vanderkin-GroupProject
 CSC221 group project, DEC 2020
 
-Description: Demographic analysis of Wisconsin
+Description: Climate analysis of Wisconsin
 
 Webscraped URL: [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin)
 
