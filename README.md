@@ -11,7 +11,7 @@ Collaborators:
 * Lee West - Accepted
 * Dayton Vanhouten - Accepted
 * Stuart Watson - Accept invite, Please view my REPOSITORY
-* Zachary Wylie
+* Zachary Wylie - Accepted
 
 Instructor:
 * Ms. Rizzo srizzo@waketech.edu
